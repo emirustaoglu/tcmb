@@ -1,0 +1,32 @@
+{
+  "name": "emirustaoglu/tcmb",
+  "version": "1.0.0",
+  "description": "T.C. Merkez Bankası üzerinden güncel veya tarihe göre döviz kurlarını çekebilirsiniz",
+  "keywords": [
+    "döviz kuru",
+    "tcmb",
+    "merkez bankası",
+    "usd kuru"
+  ],
+  "homepage": "https://github.com/emirustaoglu/tcmb",
+  "license": "MIT",
+  "type": "library",
+  "authors": [
+    {
+      "name": "Yusuf Emir USTAOĞLU",
+      "email": "emiru893@gmail.com",
+      "homepage": "https://github.com/emirustaoglu"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "emirustaoglu\\tcmb\\": "src/"
+    }
+  },
+  "minimum-stability": "dev",
+  "prefer-stable": true,
+  "require": {
+    "php": ">=7.4",
+    "emirustaoglu/filecache": "^1.0.2"
+  }
+}

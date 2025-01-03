@@ -1,0 +1,140 @@
+{
+    "USD": {
+        "DovizAlis": 35.271,
+        "DovizSatis": 35.3346,
+        "EfektifAlis": 35.3876,
+        "EfektifSatis": 35.2463
+    },
+    "AUD": {
+        "DovizAlis": 21.8682,
+        "DovizSatis": 22.0108,
+        "EfektifAlis": 22.1429,
+        "EfektifSatis": 21.7676
+    },
+    "DKK": {
+        "DovizAlis": 4.8555,
+        "DovizSatis": 4.8794,
+        "EfektifAlis": 4.8906,
+        "EfektifSatis": 4.8521
+    },
+    "EUR": {
+        "DovizAlis": 36.2762,
+        "DovizSatis": 36.3416,
+        "EfektifAlis": 36.3961,
+        "EfektifSatis": 36.2508
+    },
+    "GBP": {
+        "DovizAlis": 43.6637,
+        "DovizSatis": 43.8913,
+        "EfektifAlis": 43.9572,
+        "EfektifSatis": 43.6331
+    },
+    "CHF": {
+        "DovizAlis": 38.6701,
+        "DovizSatis": 38.9184,
+        "EfektifAlis": 38.9768,
+        "EfektifSatis": 38.6121
+    },
+    "SEK": {
+        "DovizAlis": 3.1544,
+        "DovizSatis": 3.187,
+        "EfektifAlis": 3.1944,
+        "EfektifSatis": 3.1522
+    },
+    "CAD": {
+        "DovizAlis": 24.469,
+        "DovizSatis": 24.5794,
+        "EfektifAlis": 24.6728,
+        "EfektifSatis": 24.3785
+    },
+    "KWD": {
+        "DovizAlis": 113.6555,
+        "DovizSatis": 115.1426,
+        "EfektifAlis": 116.8698,
+        "EfektifSatis": 111.9506
+    },
+    "NOK": {
+        "DovizAlis": 3.0911,
+        "DovizSatis": 3.1119,
+        "EfektifAlis": 3.119,
+        "EfektifSatis": 3.0889
+    },
+    "SAR": {
+        "DovizAlis": 9.3918,
+        "DovizSatis": 9.4087,
+        "EfektifAlis": 9.4793,
+        "EfektifSatis": 9.3213
+    },
+    "JPY": {
+        "DovizAlis": 0.223751,
+        "DovizSatis": 0.225232,
+        "EfektifAlis": 0.22608799999999998,
+        "EfektifSatis": 0.222923
+    },
+    "BGN": {
+        "DovizAlis": 18.4438,
+        "DovizSatis": 18.6851,
+        "EfektifAlis": 0,
+        "EfektifSatis": 0
+    },
+    "RON": {
+        "DovizAlis": 7.251,
+        "DovizSatis": 7.3459,
+        "EfektifAlis": 0,
+        "EfektifSatis": 0
+    },
+    "RUB": {
+        "DovizAlis": 0.31538,
+        "DovizSatis": 0.31951,
+        "EfektifAlis": 0,
+        "EfektifSatis": 0
+    },
+    "IRR": {
+        "DovizAlis": 7.929999999999999e-5,
+        "DovizSatis": 8.04e-5,
+        "EfektifAlis": 0,
+        "EfektifSatis": 0
+    },
+    "CNY": {
+        "DovizAlis": 4.7958,
+        "DovizSatis": 4.8586,
+        "EfektifAlis": 0,
+        "EfektifSatis": 0
+    },
+    "PKR": {
+        "DovizAlis": 0.12594,
+        "DovizSatis": 0.12758,
+        "EfektifAlis": 0,
+        "EfektifSatis": 0
+    },
+    "QAR": {
+        "DovizAlis": 9.621,
+        "DovizSatis": 9.7469,
+        "EfektifAlis": 0,
+        "EfektifSatis": 0
+    },
+    "KRW": {
+        "DovizAlis": 0.02385,
+        "DovizSatis": 0.02416,
+        "EfektifAlis": 0,
+        "EfektifSatis": 0
+    },
+    "AZN": {
+        "DovizAlis": 20.6314,
+        "DovizSatis": 20.9013,
+        "EfektifAlis": 0,
+        "EfektifSatis": 0
+    },
+    "AED": {
+        "DovizAlis": 9.549,
+        "DovizSatis": 9.6739,
+        "EfektifAlis": 0,
+        "EfektifSatis": 0
+    },
+    "XDR": {
+        "DovizAlis": 45.8482,
+        "DovizSatis": 0,
+        "EfektifAlis": 0,
+        "EfektifSatis": 0
+    }
+}
